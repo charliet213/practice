@@ -1,3 +1,3 @@
 #Read me
 
-This will explan everything
+This will explain everything
